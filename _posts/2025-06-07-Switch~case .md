@@ -1,6 +1,6 @@
 ---
 title: Switch~case (Java 12 🔺)
-date: 2025-06-07 20:05:00 +09:00
+date: 2025-06-07 22:25:00 +09:00
 categories: [java, spring boot]
 tags: [java]
 ---
