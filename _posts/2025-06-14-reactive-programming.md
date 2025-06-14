@@ -23,7 +23,7 @@ Spring WebFlux 를 학습 하기 전 리액티브 프로그래밍 에 리액티�
 
 ## 1. 리액티브 시스템의 특징
 
-![image.png](../assets/img/reactiv_programming.png)
+![image.png]({{ site.baseurl }}/assets/img/reactiv_programming.png)
 
 리엑티브 시스템의의 설계 원칙의 그림 으로 명확하게 설명이 가능하다.
 
