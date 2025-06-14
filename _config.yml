@@ -169,6 +169,10 @@ collections:
 
 defaults:
   - scope:
+      path: "assets/img"  # 이 경로는 이미지 경로입니다.
+    values:
+      permalink: /assets/img/:path
+  - scope:
       path: "" # An empty string here means all files in the project
       type: posts
     values:
